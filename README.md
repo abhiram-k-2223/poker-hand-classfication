@@ -54,7 +54,7 @@ Both models' accuracy scores are compared to determine which model performs bett
     ```
 
 3. **Run the Jupyter notebook or script**:
-    - If using a Jupyter notebook, open `poker_hand_classification.ipynb` and run the cells sequentially.
+    - If using a Jupyter notebook, open `multiclass_classification2.ipynb` and run the cells sequentially.
     - If using a Python script, ensure all code is included in a script and run:
 
 4. **Output**:
