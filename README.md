@@ -44,7 +44,7 @@ Both models' accuracy scores are compared to determine which model performs bett
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/poker-hand-classification.git
+    git clone https://github.com/abhiram-k-2223/poker-hand-classification.git
     cd poker-hand-classification
     ```
 
